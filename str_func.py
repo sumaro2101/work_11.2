@@ -7,4 +7,10 @@ def func(str) -> str:
 
 def str_func(str) -> str:
     ''' Получает строку и выводит ее с заглавными буквами '''
+
+
     return str.title()
+
+def make_some():
+    ''' Делает что-то '''
+    pass
